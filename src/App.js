@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const greeting = "Это тестовый проект Ситулиной Надежды Игоревны, new changes";
+  const greeting = "Это тестовый проект Ситулиной Надежды Игоревны, new changes, relese";
   // console.log('This is App ');
   return (
     <div className="App">
